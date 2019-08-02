@@ -1,6 +1,6 @@
 k4=list(str(input()))
 k5=[]
-for j in k4:
-  if j not in k5:
-    k5.append(j)
+for k in k4:
+  if k not in k5:
+    k5.append(k)
 print(*k5,sep="")
