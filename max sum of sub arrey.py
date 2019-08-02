@@ -1,5 +1,5 @@
 k2=int(input())
-k1=list(map(int,input().split()))[:k1]
+k1=list(map(int,input().split()))[:k2]
 k3=list(map(int,(k1)))
 x=0
 for i in k1:
